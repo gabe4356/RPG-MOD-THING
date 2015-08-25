@@ -1,0 +1,6 @@
+{
+    "parent":"rpg:item/Ruby",
+    "textures": {
+        "layer0":"rpg:items/BronzeBoots"   
+    }
+}

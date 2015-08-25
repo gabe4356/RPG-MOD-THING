@@ -1,0 +1,18 @@
+[
+{
+  "modid": "rpg",
+  "name": "Server RPG Mod",
+  "description": "A private mod for a modded survival server, by gabe4356!",
+  "version": "0.0.1",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gabe4356", "Bootan9"],
+  "credits": "gabe4356 for Code and textures, Bootan9 for AMAZING textures and ideas!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+           "mod_MinecraftForge"
+]
+}
+]

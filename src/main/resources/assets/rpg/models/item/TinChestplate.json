@@ -1,0 +1,6 @@
+{
+    "parent":"rpg:item/Tin",
+    "textures": {
+        "layer0":"rpg:items/TinChestplate"   
+    }
+}

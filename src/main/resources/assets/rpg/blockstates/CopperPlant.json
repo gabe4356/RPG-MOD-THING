@@ -1,0 +1,12 @@
+
+{
+    "variants": {
+      "blockdata=1": { "model": "rpg:CopperPlant_stage_1" },
+      "blockdata=2": { "model": "rpg:CopperPlant_stage_2" },
+      "blockdata=3": { "model": "rpg:CopperPlant_stage_3" },
+      "blockdata=4": { "model": "rpg:CopperPlant_stage_4" },
+      "blockdata=5": { "model": "rpg:CopperPlant_stage_5" },
+      "blockdata=6": { "model": "rpg:CopperPlant_stage_6" },
+      "blockdata=7": { "model": "rpg:CopperPlant_stage_7" }
+    }
+}

@@ -1,0 +1,13 @@
+
+{
+    "variants": {
+      "blockdata=0": { "model": "rpg:RubyPlant_stage_0" },
+      "blockdata=1": { "model": "rpg:RubyPlant_stage_1" },
+      "blockdata=2": { "model": "rpg:RubyPlant_stage_2" },
+      "blockdata=3": { "model": "rpg:RubyPlant_stage_3" },
+      "blockdata=4": { "model": "rpg:RubyPlant_stage_4" },
+      "blockdata=5": { "model": "rpg:RubyPlant_stage_5" },
+      "blockdata=6": { "model": "rpg:RubyPlant_stage_6" },
+      "blockdata=7": { "model": "rpg:RubyPlant_stage_7" }
+    }
+}
